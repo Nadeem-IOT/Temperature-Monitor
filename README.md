@@ -30,7 +30,7 @@ This project reads real-time temperature data from a sensor and displays the cur
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Open the `sketch.ino` file in the Arduino IDE.
 2. Install the following libraries via the Library Manager:
    * `LiquidCrystal_I2C`
@@ -41,5 +41,5 @@ This project reads real-time temperature data from a sensor and displays the cur
 ---
 
 ## 👤 Developer
-* **Name:** [Your Name Here]
+* **Name:** Sayyad Nadeem
 * **Internship:** Internspark IoT/Embedded Systems Intern
